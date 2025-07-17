@@ -1,0 +1,9 @@
+{
+	"name": "projectgit101devadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b52743c-655d-4736-9e9e-337340191d6a",
+		"tenantId": "32393fca-a2c3-4dd9-8619-ae0110d06631"
+	}
+}
